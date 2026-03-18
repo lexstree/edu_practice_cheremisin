@@ -2,7 +2,9 @@
 ## «Configure LAN part 1»
 
 **Выполнил:** Черемисин Кирилл
+
 **Группа:** 324К
+
 **Репозиторий:** [edu_practice_cheremisin](https://github.com/sosisonvananase/edu_practice_cheremisin)
 
 ---
