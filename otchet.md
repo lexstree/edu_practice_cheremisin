@@ -1,2 +1,7 @@
 
-<img width="536" height="118" alt="image" src="https://github.com/user-attachments/assets/2936eb6b-f383-476c-ba96-fe11cb825aad" />
+![Fa0/1 на R1](images/2.1_fa0_1.png)
+*Рисунок 18 – Интерфейс Fa0/1 R1*
+
+---
+
+### Шаг 2. Сабинтерфейсы для VLAN 1–4
