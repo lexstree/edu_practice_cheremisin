@@ -1,7 +1,11 @@
 # Отчёт по практической работе
+
 **Тема:** Bash lab 1
+
 **Выполнил:** Черемисин Кирилл
+
 **Группа:** 324к
+
 **Репозиторий:** [edu_practice_cheremisin](https://github.com/sosisonvananase/edu_practice_cheremisin)
 
 ---
