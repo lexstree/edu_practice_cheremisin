@@ -9,7 +9,7 @@
 ## Шаг 1 zero.sh
 
 
-![zero.sh](imagesb/zero.sh.png)
+![zero.sh](zero.sh.png)
 
 *Рисунок 1 – zero.sh*
 
