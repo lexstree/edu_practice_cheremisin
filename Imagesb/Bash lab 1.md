@@ -102,7 +102,7 @@
 
 ## Шаг 16. dir_info.sh
 
-![dir_info.sh](imagesb/dir_info.sh.png)
+![dir_info.sh](imagesb/dir_info.png)
 
 *Рисунок 16 – dir_info.sh*
 
